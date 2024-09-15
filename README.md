@@ -113,11 +113,11 @@ During training, the agent's trajectory (path) through the grid is visualized at
 
 Example plot showing the agent's path:
 
-| ![Agent_Trajectory_1](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o1.png) | 
-![Agent_Trajectory_2](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o2.png) | 
-![Agent_Trajectory_3](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o3.png) | 
-![Agent_Trajectory_4](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o4.png) | 
-![Agent_Trajectory_5](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o5.png) |
+![Agent_Trajectory_1](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o1.png)
+![Agent_Trajectory_2](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o2.png)
+![Agent_Trajectory_3](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o3.png)
+![Agent_Trajectory_4](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o4.png)
+![Agent_Trajectory_5](https://github.com/AartiDashore/ReinforcementLearningVisualization/blob/main/o5.png)
 
 
 ### Learned Policy Map
